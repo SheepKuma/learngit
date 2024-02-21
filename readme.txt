@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Sheep test color.
 Sheep test tortoise.
+Sheep test SSH.
